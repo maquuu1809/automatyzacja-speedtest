@@ -4,9 +4,9 @@ W tym repozytorium znajduje się program, który automatyzuje proces pomiarów p
 
 ## 🛠️ Wymagania
 
-- Python 3.x
-- Przeglądarka Google Chrome
-- Zainstalowana biblioteka Selenium:
+- Python w wersji **co najmniej 3.10** - można pobrać ze strony [python.org](https://www.python.org/downloads/release/python-3100/)
+- Przeglądarka **Google Chrome**
+- Zainstalowana biblioteka **Selenium**:
 
 ```bash
 pip install selenium
